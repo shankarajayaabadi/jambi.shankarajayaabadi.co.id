@@ -1,42 +1,52 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Rizky
-    message: Saya senang dengan kualitas produk dan pemasangan yang bersih.
+    name: Bagus
+    message: >-
+      Pelayanan dari jambi.shankarajayaabadi.co.id sangat profesional. Hasil
+      pemasangan plafon PVC di rumah saya sangat memuaskan.
     response: >-
-      Terima kasih atas pilihan Anda! Kami selalu berusaha memberikan layanan
-      maksimal untuk pelanggan di Jambi.
+      Terima kasih atas kepercayaan Anda! Kami selalu berusaha memberikan
+      layanan maksimal untuk pelanggan di Jambi.
     rating: 5
   - avatar: /images/admin/avatar2.png
-    name: Nadia
+    name: Salsa
     message: >-
-      Saya memilih jambi.shankarajayaabadi.co.id karena harga bersaing. Hasil
-      pemasangan presisi dan timnya berpengalaman.
+      Wall panel PVC yang dipasang terlihat lebih modern. Proses konsultasi juga
+      mudah.
     response: >-
-      Kami bangga dapat membantu Anda menemukan plafon PVC yang cocok untuk
+      Kami bangga dapat membantu Anda menemukan plafon PVC yang tepat untuk
       rumah Anda di Jambi.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Dian
-    message: Proses pemasangan plafon PVC tepat waktu dan hasilnya memuaskan.
-    response: Kami senang dapat memenuhi harapan Anda. Terima kasih atas pilihan Anda!
+    name: Rama
+    message: Proses pemasangan plafon PVC tepat waktu dan hasilnya sangat bagus.
+    response: >-
+      Terima kasih telah merekomendasikan layanan kami di Jambi. Kami akan terus
+      mempertahankan kualitas.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Mira
+    name: Dina
     message: >-
       Plafon PVC dari jambi.shankarajayaabadi.co.id membuat ruangan lebih
       elegan. Tim pemasangan profesional dan hasilnya presisi.
     response: >-
-      Terima kasih atas kepercayaannya! Kami selalu berusaha memberikan hasil
-      terbaik untuk pelanggan di Jambi.
+      Kami menghargai ulasan Anda. Senang dapat membantu mewujudkan interior
+      impian Anda.
     rating: 5
   - avatar: /images/admin/avatar5.png
-    name: Yanto
-    message: Plafon PVC yang dipasang sangat sesuai harapan.
-    response: Terima kasih atas ulasannya! Kami senang dapat membantu proyek Anda.
+    name: Iwan
+    message: >-
+      Saya memilih jambi.shankarajayaabadi.co.id karena tim profesional. Hasil
+      pemasangan rapi dan kualitas plafonnya terbaik.
+    response: >-
+      Kami berterima kasih atas kepercayaan Anda. Semoga plafon PVC kami selalu
+      memberikan kenyamanan di Jambi.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Sari
-    message: Saya puas dengan hasil pemasangan dan kualitas produk yang diberikan.
+    name: Nina
+    message: >-
+      Pelayanan dari jambi.shankarajayaabadi.co.id membantu. Plafon PVC yang
+      dipasang sangat cocok dengan desain rumah saya.
     response: >-
       Kami senang mendengar Anda puas dengan layanan kami. Terima kasih atas
       kepercayaan Anda!
